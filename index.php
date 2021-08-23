@@ -19,7 +19,7 @@
                 </div>
                
             </div>
-            <button type="submit" class="btn">Submit</button>            
+            <button type="submit" class="btn">Enviar</button>            
         </form>
 
     </div>
