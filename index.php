@@ -19,7 +19,7 @@
                 </div>
                
             </div>
-            <button type="submit" class="btn">Enviar Teste</button>            
+            <button type="submit" class="btn">Submit</button>            
         </form>
 
     </div>
